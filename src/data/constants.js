@@ -1,7 +1,7 @@
 export const Bio = {
   name: "Johan John Joji",
   roles: [
-    "Computer Engineering Major @ USF",
+    "Computer Engineering",
   ],
   description:
   "I'm a passionate computer engineering enthusiast with a keen interest in all things tech.",
